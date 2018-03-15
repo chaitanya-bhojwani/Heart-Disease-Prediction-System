@@ -1,0 +1,12 @@
+name: Heart_Disease_Prediction_Classification
+title: Heart_Disease_Prediction_Classification
+username:
+account: chaitanya-bhojwani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 299490
+bundleId: 1268809
+url: https://chaitanya-bhojwani.shinyapps.io/Heart_Disease_Prediction_Classification/
+when: 1521055225.31467
+asMultiple: FALSE
+asStatic: FALSE
