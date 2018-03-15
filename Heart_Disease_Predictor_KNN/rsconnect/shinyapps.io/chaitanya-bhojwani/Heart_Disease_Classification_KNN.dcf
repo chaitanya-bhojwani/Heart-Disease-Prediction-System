@@ -1,0 +1,12 @@
+name: Heart_Disease_Classification_KNN
+title: Heart_Disease_Classification_KNN
+username:
+account: chaitanya-bhojwani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 299396
+bundleId: 1268380
+url: https://chaitanya-bhojwani.shinyapps.io/Heart_Disease_Classification_KNN/
+when: 1521039022.33594
+asMultiple: FALSE
+asStatic: FALSE
