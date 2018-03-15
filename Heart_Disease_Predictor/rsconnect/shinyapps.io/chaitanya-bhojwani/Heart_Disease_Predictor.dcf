@@ -1,0 +1,12 @@
+name: Heart_Disease_Predictor
+title: Heart_Disease_Predictor
+username:
+account: chaitanya-bhojwani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 252494
+bundleId: 1268333
+url: https://chaitanya-bhojwani.shinyapps.io/Heart_Disease_Predictor/
+when: 1521037800.90737
+asMultiple: FALSE
+asStatic: FALSE
